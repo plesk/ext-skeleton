@@ -9,16 +9,16 @@
     "packages-dev": [
         {
             "name": "plesk/pm-api-stubs",
-            "version": "18.0.15",
+            "version": "18.0.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/plesk/pm-api-stubs.git",
-                "reference": "c7b28a388e041f9ca931474a8307d4cc5b817564"
+                "reference": "4e6d1024c68c274a17038ecf333971b71d98572f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/plesk/pm-api-stubs/zipball/c7b28a388e041f9ca931474a8307d4cc5b817564",
-                "reference": "c7b28a388e041f9ca931474a8307d4cc5b817564",
+                "url": "https://api.github.com/repos/plesk/pm-api-stubs/zipball/4e6d1024c68c274a17038ecf333971b71d98572f",
+                "reference": "4e6d1024c68c274a17038ecf333971b71d98572f",
                 "shasum": ""
             },
             "require": {
@@ -38,7 +38,7 @@
                 "Apache-2.0"
             ],
             "description": "Plesk Extensions API PHP files stubs for IDE.",
-            "time": "2019-05-07T09:37:24+00:00"
+            "time": "2019-07-30T10:52:19+00:00"
         },
         {
             "name": "plesk/zf1",
