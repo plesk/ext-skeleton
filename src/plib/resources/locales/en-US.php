@@ -2,7 +2,7 @@
 
 $messages = [
     'app' => [
-        'index' => [
+        'Overview' => [
             'title' => 'Overview',
         ],
     ],
