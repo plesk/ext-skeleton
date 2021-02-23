@@ -13,7 +13,7 @@ Make sure your development environment has the following prerequisites installed
 
 Create a new project by running `composer create-project plesk/ext-skeleton my-extension`.
 
-Compile assets with `yarn build`.
+Install dependencies and compile assets with `yarn install`.
 
 At this point the extension is ready to be used.
 
